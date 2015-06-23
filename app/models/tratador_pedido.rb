@@ -1,0 +1,2 @@
+class TratadorPedido < ReceivedMessageHandler
+end

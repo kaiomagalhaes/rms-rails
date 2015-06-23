@@ -1,0 +1,2 @@
+class MensagemPedido < MainMessage
+end
